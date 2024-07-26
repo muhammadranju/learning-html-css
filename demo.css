@@ -10,14 +10,18 @@
   border: 10px solid tomato;
 } */
 
-.my_div {
+/* .my_div {
   background: #574b90;
   margin: 20px;
   padding: 20px;
   color: white;
   width: 300px;
-  /* max-width: 1140px; */
-  /* min-width: 500px; */
+  max-width: 1140px; */
+/* min-width: 500px;
   float: left;
   border: 10px solid tomato;
+} */
+
+h1 {
+  text-transform: capitalize;
 }
